@@ -8,3 +8,20 @@
 https://chatgpt.com/g/g-KSTElJHhS-methodologie-juridique-head-b2  
 
 D'autres ressources à suivre ... 
+
+## La recherche de jurisprudence sur legifrance
+
+- Rechercher un arrêt rendu par la 3ème chambre civile de la Cour de cassation le 10 mars 2010 affirmant que la stipulation contractuelle interdisant le prêt des lieux à un tiers sans le consentement exprès et par écrit du bailleur, était licite ;
+- Vous savez que la Cour de cassation a rendu un arrêt important affirmant que les pratiques dictées par les convictions religieuses des preneurs n’entrent pas, sauf convention expresse, dans le champ contractuel du bail et ne font naître à la charge du bailleur aucune obligation spécifique.
+Comment pouvez-vous le retrouver ?
+- Recherchez une décision du Conseil d’État qui considère que l’article 35 du Code de déontologie médicale ne porte pas atteinte à la vie privée ;
+- Recherchez une décision du Conseil constitutionnel du 3 août 1994 ayant refusé de donner valeur constitutionnelle à la liberté contractuelle.
+
+## La recherche de textes sur legifrance
+
+- les articles 9 et 544 du Code civil dans leur dernier état ;
+- l’article du Code de la santé publique relatif au respect de la vie privée des personnes prises en charge par le système de santé ;
+- l’article 1er de la loi n° 85-677 du 5 juillet 1985 ;
+- le ou les article (s) de la loi de 1985 relative aux accidents de la circulation, traitant des recours des tiers payeurs ;
+- l’article 6 de la Convention européenne de sauvegarde des droits de l’Homme 
+
