@@ -26,6 +26,8 @@ Comment pouvez-vous le retrouver ?
 - Recherchez une décision du Conseil d’État qui considère que l’article 35 du Code de déontologie médicale ne porte pas atteinte à la vie privée ;
 - Recherchez une décision du Conseil constitutionnel du 3 août 1994 ayant refusé de donner valeur constitutionnelle à la liberté contractuelle.
 
+### TODO : utiliser les résultats trouvés pour faire générer par le chatbot une fiche d'arrêt pour chaque décision. 
+
 ## La recherche de textes sur legifrance eur-lex
 
 - les articles 9 et 544 du Code civil dans leur dernier état ;
