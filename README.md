@@ -7,7 +7,6 @@
 ## Le chatbot 
 https://chatgpt.com/g/g-KSTElJHhS-methodologie-juridique-head-b2  
 
-D'autres ressources à suivre ... 
 
 ## La recherche de jurisprudence sur legifrance
 
@@ -25,3 +24,4 @@ Comment pouvez-vous le retrouver ?
 - le ou les article (s) de la loi de 1985 relative aux accidents de la circulation, traitant des recours des tiers payeurs ;
 - l’article 6 de la Convention européenne de sauvegarde des droits de l’Homme 
 
+D'autres ressources à suivre ... 
