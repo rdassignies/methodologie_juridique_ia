@@ -9,6 +9,7 @@ https://chatgpt.com/g/g-KSTElJHhS-methodologie-juridique-head-b2
 
 ## Les modèles supplémentaires (inscription) : 
 https://mistral.ai/fr/ 
+
 https://claude.ai
 
 ## Le chatbot spécialisé Harvey
