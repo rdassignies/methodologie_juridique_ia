@@ -7,7 +7,7 @@
 ## Le chatbot 
 https://chatgpt.com/g/g-KSTElJHhS-methodologie-juridique-head-b2  
 
-## Les modèles supplémentaires (inscription) : 
+## Les modèles en complément de ChatGPT : 
 https://mistral.ai/fr/ 
 
 https://claude.ai
@@ -16,6 +16,7 @@ https://claude.ai
 https://www.harvey.ai/ 
 ![image](https://github.com/user-attachments/assets/3482ec38-bc46-4a9b-a646-a7b1c77a663c)
 
+### TODO : analyser le discours pour faire la différence avec les solutions comme ChatGPT
 
 ## La recherche de jurisprudence sur legifrance
 
