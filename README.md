@@ -7,6 +7,14 @@
 ## Le chatbot 
 https://chatgpt.com/g/g-KSTElJHhS-methodologie-juridique-head-b2  
 
+## Les modèles supplémentaires (inscription) : 
+https://mistral.ai/fr/ 
+https://claude.ai
+
+## Le chatbot spécialisé Harvey
+https://www.harvey.ai/ 
+![image](https://github.com/user-attachments/assets/3482ec38-bc46-4a9b-a646-a7b1c77a663c)
+
 
 ## La recherche de jurisprudence sur legifrance
 
