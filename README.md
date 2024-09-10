@@ -4,7 +4,7 @@
 
 [https://docs.google.com/document/d/182P9purbbgA_pddZsfkBb40bWsE06NDX6Adwm5vZSrs/edit?usp=sharing]
 
-## Le chatbot 
+## Le chatbot METHODOLOGIE HEAD B2
 https://chatgpt.com/g/g-KSTElJHhS-methodologie-juridique-head-b2  
 
 ## Les modèles en complément de ChatGPT : 
