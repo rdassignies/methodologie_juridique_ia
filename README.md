@@ -16,12 +16,11 @@ Comment pouvez-vous le retrouver ?
 - Recherchez une décision du Conseil d’État qui considère que l’article 35 du Code de déontologie médicale ne porte pas atteinte à la vie privée ;
 - Recherchez une décision du Conseil constitutionnel du 3 août 1994 ayant refusé de donner valeur constitutionnelle à la liberté contractuelle.
 
-## La recherche de textes sur legifrance
+## La recherche de textes sur legifrance eur-lex
 
 - les articles 9 et 544 du Code civil dans leur dernier état ;
 - l’article du Code de la santé publique relatif au respect de la vie privée des personnes prises en charge par le système de santé ;
 - l’article 1er de la loi n° 85-677 du 5 juillet 1985 ;
 - le ou les article (s) de la loi de 1985 relative aux accidents de la circulation, traitant des recours des tiers payeurs ;
-- l’article 6 de la Convention européenne de sauvegarde des droits de l’Homme 
-
+- directive 85/374/CEE responsabilité du fait des produits défectueux sur https://eur-lex.europa.eu/quick-search-form.html 
 D'autres ressources à suivre ... 
