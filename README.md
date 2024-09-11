@@ -40,6 +40,24 @@ Comment pouvez-vous le retrouver ?
 - directive 85/374/CEE responsabilité du fait des produits défectueux sur https://eur-lex.europa.eu/quick-search-form.html 
 D'autres ressources à suivre ...
 
+## Les règles de citation : savoir citer une article du code
+
+Voici 4 références au droit objectif : numéro et source de la disposition + contenu de la disposition, En vous aidant du tableau ci-dessus, rédigez pour chaque référence deux phrases exposant le droit objectif : 1) une phrase avec un verbe 2) une phrase avec une locution.
+
+**Exemple** Article L. 521-1 du Code du travail : « La grève ne rompt pas le contrat de travail, sauf faute lourde imputable au salarié. »
+
+ l . L'article L. 521-1 du Code du travail garantit la continuité du contrat de travail en cas de grève, sauf faute lourde du salarié.
+ 
+ 2. En vertu de l'article L. 521-1 du Code du travail, la grève ne rompt pas le contrat de travail, sauf faute lourde du salarié.
+    
+**Article L. 128-1 du Code de commerce** — « Nul ne peut, directement ou indirectement, pour son propre compte ou pour le compte d'autrui, entreprendre l'exercice d'une profession commerciale ou industrielle, diriger, administrer, gérer ou contrôler, à un titre quelconque, une entreprise commerciale ou industrielle ou une société commerciale s'il a fait l'objet depuis moins de dix ans d'une condamnation définitive : 1 0 Pour crime; 2 0 À une peine d'au moins trois mois d'emprisonnement sans sursis.. »
+**Article L 615-12 du Code de la propriété intellectuelle** — « Quiconque se prévaut indûment de la qualité de propriétaire d'un brevet ou d'une demande de brevet est puni d'une amende de 7 500 euros. »
+**Article 25 du contrat de sous-traitance** : 
+Force majeure :
+ « Aucune des parties ne sera tenue pour responsable vis-à-vis de l'autre, de la non exécution d'une obligation au présent contrat qui serait due au fait de l'autre partie ou à la survenance d'un cas de force majeure, c'est-àdire d'un événement extérieur, imprévisible et irrésistible. Le cas de force majeure suspend les obligations nées du contrat pendant toute la durée de son existence. »
+**Article 121-7 du Code pénal** — « Est complice d'un crime ou d'un délit la personne qui sciemment, par aide ou assistance, en a facilité la préparation ou la consommation. Est également complice la personne qui par don, promesse, menace, ordre, abus d'autorité ou de pouvoir aura provoqué à une infraction ou donné des instructions pour la commettre. »
+
+
 ## Cas pratique et recherche juridique
 
 ### Exercice 1 
