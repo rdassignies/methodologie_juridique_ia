@@ -47,11 +47,25 @@ En vous servant de tout support documentaire, essayez de répondre à la questio
 ## Exercice n° 2
 Vous devez trouver les notes de doctrine publiées sur l’arrêt rendu par la 1re chambre civile de la Cour de cassation, le 17 décembre 1996 (Bull. civ. I, n° 463) relatif à la convention d’assistance bénévole
 
+## Cas pratique : qualifier juridiquement les faits
+### Exemple 1 : Concurrence déloyale
+
+Mme D., propriétaire d’un salon de coiffure, remarque que son ancien salarié, M. E., a ouvert un salon concurrent dans la même rue. M. E. a envoyé des messages publicitaires à la clientèle de Mme D., leur proposant des tarifs inférieurs.
+
+Mots clés : Concurrence déloyale, détournement de clientèle, ancien salarié, publicité comparative.
+
+### Exemple 2 : Contrat de vente
+M. F. achète une voiture d’occasion à M. G. Six mois plus tard, le moteur tombe en panne. M. F. découvre que la voiture avait déjà subi des réparations importantes avant la vente, dont il n’avait pas été informé.
+
+Mots clés : Vices cachés, contrat de vente, défaut de conformité, garantie légale.
+
+
 ## Cas pratique : consultation
 *Vous êtes avocat, un de vos clients vous expose la situation de son fils pour qui il est très inquiet et vous demande ce que risque son fils.*
 
 **Les faits**
 Son enfant a 18 ans, il est en classe de Terminale au lycée. C'est la première fois qu'il est arrêté par la police et qu'il a affaire à la justice. Celle-ci détient la preuve qu'il a un lien avec un vol de moto. Il a promis la somme de 1 000 euros pour obtenir une moto volée (avec effacement du numéro de série et changement de la plaque d'immatriculation).
+
 
 **Outils juridiques : quelques éléments de droit objectif applicables au cas**
 - Article 121-7 du Code pénal — Est complice d'un crime ou d'un délit la personne qui sciemment, par aide ou assistance, en a facilité la préparation ou la consommation. Est également complice la personne qui par don, promesse, menace, ordre, abus d'autorité ou de pouvoir aura provoqué à une infraction ou donné des instructions pour la commettre.
