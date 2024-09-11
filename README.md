@@ -35,4 +35,26 @@ Comment pouvez-vous le retrouver ?
 - l’article 1er de la loi n° 85-677 du 5 juillet 1985 ;
 - le ou les article (s) de la loi de 1985 relative aux accidents de la circulation, traitant des recours des tiers payeurs ;
 - directive 85/374/CEE responsabilité du fait des produits défectueux sur https://eur-lex.europa.eu/quick-search-form.html 
-D'autres ressources à suivre ... 
+D'autres ressources à suivre ...
+
+## Cas pratique et recherche juridique
+
+### Exercice 1 
+En vous servant de tout support documentaire, essayez de répondre à la question suivante : une personne placée sous curatelle peut-elle faire une donation ?
+## Exercice n° 2
+Vous devez trouver les notes de doctrine publiées sur l’arrêt rendu par la 1re chambre civile de la Cour de cassation, le 17 décembre 1996 (Bull. civ. I, n° 463) relatif à la convention d’assistance bénévole
+
+## Cas pratique : consultation
+*Vous êtes avocat, un de vos clients vous expose la situation de son fils pour qui il est très inquiet et vous demande ce que risque son fils.*
+
+**Les faits **
+Son enfant a 18 ans, il est en classe de Terminale au lycée. C'est la première fois qu'il est arrêté par la police et qu'il a affaire à la justice. Celle-ci détient la preuve qu'il a un lien avec un vol de moto. Il a promis la somme de 1 000 euros pour obtenir une moto volée (avec effacement du numéro de série et changement de la plaque d'immatriculation).
+
+** Outils juridiques : quelques éléments de droit objectif applicables au cas **
+- Article 121-7 du Code pénal — Est complice d'un crime ou d'un délit la personne qui sciemment, par aide ou assistance, en a facilité la préparation ou la consommation. Est également complice la personne qui par don, promesse, menace, ordre, abus d'autorité ou de pouvoir aura provoqué à une infraction ou donné des instructions pour la commettre.
+
+- Article 121-6 du Code pénal Sera puni comme auteur le complice de l'infraction, au sens de l'article 121-7.
+
+- Article 311-3 du Code pénal — Le vol est puni de trois ans d'emprisonnement et de 45 000 euros d'amende.
+
+- Article 132-30 du Code pénal — En matière criminelle ou correctionnelle, le sursis simple ne peut être ordonné à l'égard d'une personne physique que lorsque le prévenu n'a pas été condamné, au cours des cinq années précédant les faits, pour crime ou délit de droit commun, à une peine de réclusion ou d'emprisonnement
