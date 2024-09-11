@@ -7,6 +7,9 @@
 ## Le chatbot METHODOLOGIE HEAD B2
 https://chatgpt.com/g/g-KSTElJHhS-methodologie-juridique-head-b2  
 
+## Le chatbot spécial IA ACT
+https://chatgpt.com/g/g-ZsR0kRigl-ia-act-expert 
+
 ## Les modèles en complément de ChatGPT : 
 https://mistral.ai/fr/ 
 
