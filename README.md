@@ -47,10 +47,10 @@ Vous devez trouver les notes de doctrine publiées sur l’arrêt rendu par la 1
 ## Cas pratique : consultation
 *Vous êtes avocat, un de vos clients vous expose la situation de son fils pour qui il est très inquiet et vous demande ce que risque son fils.*
 
-**Les faits **
+**Les faits**
 Son enfant a 18 ans, il est en classe de Terminale au lycée. C'est la première fois qu'il est arrêté par la police et qu'il a affaire à la justice. Celle-ci détient la preuve qu'il a un lien avec un vol de moto. Il a promis la somme de 1 000 euros pour obtenir une moto volée (avec effacement du numéro de série et changement de la plaque d'immatriculation).
 
-** Outils juridiques : quelques éléments de droit objectif applicables au cas **
+**Outils juridiques : quelques éléments de droit objectif applicables au cas**
 - Article 121-7 du Code pénal — Est complice d'un crime ou d'un délit la personne qui sciemment, par aide ou assistance, en a facilité la préparation ou la consommation. Est également complice la personne qui par don, promesse, menace, ordre, abus d'autorité ou de pouvoir aura provoqué à une infraction ou donné des instructions pour la commettre.
 
 - Article 121-6 du Code pénal Sera puni comme auteur le complice de l'infraction, au sens de l'article 121-7.
