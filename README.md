@@ -21,6 +21,10 @@ https://www.harvey.ai/
 
 ### TODO : analyser le discours pour faire la différence avec les solutions comme ChatGPT
 
+## La fiche prompting (généralité)
+
+https://github.com/rdassignies/prompting 
+
 ## La recherche de jurisprudence sur legifrance
 
 - Rechercher un arrêt rendu par la 3ème chambre civile de la Cour de cassation le 10 mars 2010 affirmant que la stipulation contractuelle interdisant le prêt des lieux à un tiers sans le consentement exprès et par écrit du bailleur, était licite ;
