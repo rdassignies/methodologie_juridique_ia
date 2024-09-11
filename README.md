@@ -33,7 +33,10 @@ Comment pouvez-vous le retrouver ?
 - Recherchez une décision du Conseil d’État qui considère que l’article 35 du Code de déontologie médicale ne porte pas atteinte à la vie privée ;
 - Recherchez une décision du Conseil constitutionnel du 3 août 1994 ayant refusé de donner valeur constitutionnelle à la liberté contractuelle.
 
-### TODO : utiliser les résultats trouvés pour faire générer par le chatbot une fiche d'arrêt pour chaque décision. 
+### TODO : Générer une fiche d'arrêt à partir de cet arrêt de la Cour de cassation : 
+
+https://www.courdecassation.fr/toutes-les-actualites/2022/11/07/code-de-deverrouillage-dun-ecran-de-telephone-et-cryptologie 
+https://www.legifrance.gouv.fr/juri/id/JURITEXT000046583035?init=true&page=1&query=21-83.146&searchField=ALL&tab_selection=all 
 
 ## La recherche de textes sur legifrance eur-lex
 
