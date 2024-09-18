@@ -1,8 +1,12 @@
 # Méthodologie juridique et intelligence artificielle
 
-## Le plan du cours (syllabus) : 
-
+# Le plan du cours (syllabus) : 
 [https://docs.google.com/document/d/182P9purbbgA_pddZsfkBb40bWsE06NDX6Adwm5vZSrs/edit?usp=sharing]
+
+# Les modalités d'évaluation
+- QCM (15 questions) : généralités sur l'IA et les modèles de langage
+- Recherches dans legifrance
+- Analyse critique d'un cas pratique rédigé par l'IA
 
 ## Le chatbot METHODOLOGIE HEAD B2
 https://chatgpt.com/g/g-KSTElJHhS-methodologie-juridique-head-b2  
@@ -12,8 +16,10 @@ https://chatgpt.com/g/g-ZsR0kRigl-ia-act-expert
 
 ## Les modèles en complément de ChatGPT : 
 https://mistral.ai/fr/ 
-
 https://claude.ai
+
+## NEW ! Un nouvel outil prometteur : NotebookLM
+https://notebooklm.google.com/notebook/6fd573ef-a10d-4b5d-9c79-77aa1fc6261f?_gl=1*1jplb1f*_ga*NDQzMTM0MDAzLjE3MjY2Nzk1MjU.*_ga_W0LDH41ZCB*MTcyNjY3OTUyNS4xLjAuMTcyNjY3OTUyNS42MC4wLjA.&original_referer=https:%2F%2Fnotebooklm.google%23&pli=1 
 
 ## Le chatbot spécialisé Harvey
 https://www.harvey.ai/ 
