@@ -6,6 +6,7 @@
 # Les modalités d'évaluation
 - QCM (15 questions) : généralités sur l'IA et les modèles de langage
 - Recherches dans legifrance
+- Rédaction de prompts 
 - Analyse critique d'un cas pratique rédigé par l'IA
 
 ## Le chatbot METHODOLOGIE HEAD B2
