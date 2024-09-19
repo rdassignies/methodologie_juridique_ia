@@ -1,5 +1,7 @@
 # Méthodologie juridique et intelligence artificielle
 
+contact : rdassignies [at] protonmail.ch 
+
 # Le plan du cours (syllabus) : 
 [https://docs.google.com/document/d/182P9purbbgA_pddZsfkBb40bWsE06NDX6Adwm5vZSrs/edit?usp=sharing]
 
@@ -16,7 +18,9 @@ https://drive.google.com/file/d/1dsUim_xLJlEjH44FmxNHCwYOVRnVspfb/view?usp=shari
 
 ### Le prompting
 
-https://github.com/rdassignies/prompting 
+https://github.com/rdassignies/prompting (exemples)
+
+https://drive.google.com/file/d/1MGYT3YKJJ0tqsgGo7u4-IPofz2O2MyT4/view?usp=sharing (resumé ) 
 
 # Les modalités d'évaluation
 - QCM (15 questions) : généralités sur l'IA et les modèles de langage
