@@ -9,6 +9,8 @@
 - Rédaction de prompts 
 - Analyse critique d'un cas pratique rédigé par l'IA
 
+######################### LES OUTILS ###################################
+
 ## Le chatbot METHODOLOGIE HEAD B2
 https://chatgpt.com/g/g-KSTElJHhS-methodologie-juridique-head-b2  
 
