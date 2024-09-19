@@ -22,6 +22,8 @@ https://claude.ai
 ## NEW ! Un nouvel outil prometteur : NotebookLM
 https://notebooklm.google.com/notebook/6fd573ef-a10d-4b5d-9c79-77aa1fc6261f?_gl=1*1jplb1f*_ga*NDQzMTM0MDAzLjE3MjY2Nzk1MjU.*_ga_W0LDH41ZCB*MTcyNjY3OTUyNS4xLjAuMTcyNjY3OTUyNS42MC4wLjA.&original_referer=https:%2F%2Fnotebooklm.google%23&pli=1 
 
+cf. gizmo (https://www.gizmo.ai) 
+
 ## Le chatbot spécialisé Harvey
 https://www.harvey.ai/ 
 ![image](https://github.com/user-attachments/assets/3482ec38-bc46-4a9b-a646-a7b1c77a663c)
