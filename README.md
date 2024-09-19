@@ -103,6 +103,13 @@ Force majeure :
  
 **Article 121-7 du Code pénal** — « Est complice d'un crime ou d'un délit la personne qui sciemment, par aide ou assistance, en a facilité la préparation ou la consommation. Est également complice la personne qui par don, promesse, menace, ordre, abus d'autorité ou de pouvoir aura provoqué à une infraction ou donné des instructions pour la commettre. »
 
+## Le syllogisme juridique
+
+Générer l'analyse de cet arrêt : 
+
+Mais attendu que si la faute de la victime n'exonère totalement le gardien qu'à la condition de présenter les caractères d'un événement de force majeure, cette exigence est satisfaite lorsque cette faute présente, lors de l'accident, un caractère imprévisible et irrésistible; qu'ayant retenu que la chute de Corinne sur la voie ne pouvait s'expliquer que par l'action volontaire de la victime, que le comportement de celle-ci n'était pas prévisible dans la mesure où aucun des préposés de la RATP ne pouvait deviner sa volonté de se précipiter contre la rame, qu'il n'avait été constaté aucun manquement aux règles de sécurité imposées au transporteur et que celui-ci ne saurait se voir reprocher de ne pas prendre toutes mesures rendant impossible l'action de personnes ayant la volonté de produire le dommage auquel elles s'exposent volontairement, la cour d'appel a décidé à bon droit que la faute commise par la victime exonérait la RATP de toute responsabilité;
+
+
 ## Cas pratique et recherche juridique
 
 ### Exercice 1 
