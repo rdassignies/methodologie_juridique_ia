@@ -22,6 +22,9 @@ https://github.com/rdassignies/prompting (exemples)
 
 https://drive.google.com/file/d/1MGYT3YKJJ0tqsgGo7u4-IPofz2O2MyT4/view?usp=sharing (resumé ) 
 
+Pour aller plus loin: 
+https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://arxiv.org/abs/2312.16171&ved=2ahUKEwihpsrujc-IAxW8RaQEHTEqJSkQFnoECBQQAQ&usg=AOvVaw2VTnQcdmbA2EKCJoFFvWyw
+
 # Les modalités d'évaluation
 - QCM (15 questions) : généralités sur l'IA et les modèles de langage
 - Recherches dans legifrance
