@@ -78,7 +78,7 @@ Force majeure :
 
 ### Exercice 1 
 En vous servant de tout support documentaire, essayez de répondre à la question suivante : une personne placée sous curatelle peut-elle faire une donation ?
-## Exercice n° 2
+### Exercice n° 2
 Vous devez trouver les notes de doctrine publiées sur l’arrêt rendu par la 1re chambre civile de la Cour de cassation, le 17 décembre 1996 (Bull. civ. I, n° 463) relatif à la convention d’assistance bénévole
 
 ## Cas pratique : qualifier juridiquement les faits
@@ -130,3 +130,7 @@ Son enfant a 18 ans, il est en classe de Terminale au lycée. C'est la première
 - Article 311-3 du Code pénal — Le vol est puni de trois ans d'emprisonnement et de 45 000 euros d'amende.
 
 - Article 132-30 du Code pénal — En matière criminelle ou correctionnelle, le sursis simple ne peut être ordonné à l'égard d'une personne physique que lorsque le prévenu n'a pas été condamné, au cours des cinq années précédant les faits, pour crime ou délit de droit commun, à une peine de réclusion ou d'emprisonnement
+
+## Société Autoplus 
+
+La société Autoplus est en pourparlers avec la société Livretout pour la vente de nouveaux véhicules de livraison. Le 15 octobre 2016, après de longs mois de négociations, la société Autoplus envoie à la société Livretout un contrat signé et détaillé prévoyant un prix de 100 000 € pour 50 véhicules neufs. Au vu de l’enjeu important du contrat, la société Livretout avait demandé, pour la somme forfaitaire de 1 000 €, à une société spécialisée de faire une étude sur l’adaptation des véhicules dont l’acquisition était envisagée aux besoins de l’entreprise. Le 20 octobre 2016, après réflexion, le dirigeant de la société Livretout signe le contrat et l’envoie par lettre recommandée avec accusé de réception, cette dernière étant alors reçue deux jours plus tard par son destinataire. Le lendemain, le 21 octobre 2016, il reçoit également une lettre recommandée avec accusé de réception de la société Autoplus. Cette dernière lui indique que finalement elle ne souhaite plus contracter avec elle puisqu’elle s’est rapprochée d’une société concurrente.
