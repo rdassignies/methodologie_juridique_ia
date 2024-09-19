@@ -3,6 +3,21 @@
 # Le plan du cours (syllabus) : 
 [https://docs.google.com/document/d/182P9purbbgA_pddZsfkBb40bWsE06NDX6Adwm5vZSrs/edit?usp=sharing]
 
+
+
+## Les fiches de cours 
+### Les modèles de langage
+
+https://drive.google.com/file/d/13UQluiO1kiZx5gOeRiTP-zVqUvL8SIiV/view?usp=sharing 
+
+### IA, les fondamentaux
+
+https://drive.google.com/file/d/1dsUim_xLJlEjH44FmxNHCwYOVRnVspfb/view?usp=sharing
+
+### Le prompting
+
+https://github.com/rdassignies/prompting 
+
 # Les modalités d'évaluation
 - QCM (15 questions) : généralités sur l'IA et les modèles de langage
 - Recherches dans legifrance
