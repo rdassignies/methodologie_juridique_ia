@@ -24,6 +24,9 @@ https://notebooklm.google.com/notebook/6fd573ef-a10d-4b5d-9c79-77aa1fc6261f?_gl=
 
 cf. gizmo (https://www.gizmo.ai) 
 
+## Beekast 
+https://my.beekast.com 
+
 ## Le chatbot spécialisé Harvey
 https://www.harvey.ai/ 
 ![image](https://github.com/user-attachments/assets/3482ec38-bc46-4a9b-a646-a7b1c77a663c)
