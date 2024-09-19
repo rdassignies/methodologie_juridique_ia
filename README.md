@@ -177,3 +177,17 @@ La société Autoplus est en pourparlers avec la société Livretout pour la ven
 Quatre amis Jérémy, Leïla, Anaïs et Christophe viennent de créer une entreprise de peinture en bâtiment spécialisée dans la décoration de façade. Il s’agit d’une SARL dont le siège social est situé à Aix-en-Provence.
 Lors de la création de la société, Jérémy et Leïla apportent 2500 euros chacun en espèces. Christophe met à la disposition de la société 3000 euros de matériel. Anaïs, qui apporte 2000 euros en espèce est nommée gérante.
 
+Annexe : Extraits du Code du commerce
+ 
+ 
+Article L223-1 : La SARL est instituée par une ou plusieurs personnes qui ne supportent les pertes qu’à concurrence de leurs apports. La société est désignée par une dénomination sociale, à laquelle peut être incorporé le nom d’un ou plusieurs associés, et qui doit être précédée ou suivie immédiatement des mots »société à responsabilité limitée » ou des initiales « SARL » et de l’énonciation du capital social.
+ 
+Article L-223-2 : Le montant du capital de la société est fixé par les statuts. Il est divisé en parts sociales égales. […]
+ 
+Article L-223-7 : Les parts sociales doivent être souscrites en totalité […]
+ 
+Article L-223-14 : Les parts sociales ne peuvent être cédées à des tiers étrangers à la société qu’avec le consentement de la majorité des associés représentant au moins la majorité des parts sociales.[…]
+ 
+Article L223-25 : Le gérant est révocable par décision des associés représentant plus de la moitié des parts sociales. Toute clause contraire est réputée non écrite. […]
+
+
