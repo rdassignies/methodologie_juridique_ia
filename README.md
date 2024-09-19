@@ -93,6 +93,27 @@ M. F. achète une voiture d’occasion à M. G. Six mois plus tard, le moteur to
 
 Mots clés : Vices cachés, contrat de vente, défaut de conformité, garantie légale.
 
+### Exemple 3 : Bail d'habitation
+Mme H. est locataire d’un appartement appartenant à M. I. Ce dernier refuse de procéder aux réparations nécessaires après que le chauffage central est tombé en panne en plein hiver. Mme H. envisage de suspendre le paiement de son loyer.
+
+Mots clés : Obligation du bailleur, jouissance paisible, logement décent, suspension du paiement du loyer.
+
+### Exemple 4 : Cautionnement bancaire
+
+M. J. se porte caution solidaire pour un prêt contracté par son ami M. K. auprès d’une banque. Suite à des difficultés financières, M. K. ne parvient plus à rembourser le prêt. La banque se tourne alors vers M. J. pour obtenir le paiement des sommes dues.
+
+Mots clés : Cautionnement solidaire, défaillance du débiteur principal, recours contre la caution.
+
+## Proposer des qualifications opposées
+
+Les parties se disputent sur la qualification des faits car de celle-ci découle l'application du droit. Voici des situations juridiques.
+Est indiqué également l'élément de qualification qui oppose les deux parties.
+
+Rédigez en a) et b) la qualification que chacune des parties pourrait avancer afin de servir ses intérêts.
+
+Exemple : M. Martel, ingénieur commercial, salarié de la société IBP, refuse de changer de lieu de travail car cela implique qu'il déménage à 800 km de son lieu de résidence habituel. Si la modification est substantielle, elle doit recevoir l'accord exprès du salarié, sinon elle n'est pas valable.
+Le changement de lieu de travail à plus de 800 km du lieu initialement prévu au contrat constitue-t-il une modification substantielle ou non substantielle du contrat de travail ?
+
 
 ## Cas pratique : consultation
 *Vous êtes avocat, un de vos clients vous expose la situation de son fils pour qui il est très inquiet et vous demande ce que risque son fils.*
