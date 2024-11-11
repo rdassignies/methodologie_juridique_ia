@@ -57,9 +57,7 @@ https://www.harvey.ai/
 
 ### TODO : analyser le discours pour faire la différence avec les solutions comme ChatGPT
 
-## La fiche prompting (généralité)
 
-https://github.com/rdassignies/prompting 
 
 ## La recherche de jurisprudence sur legifrance
 
